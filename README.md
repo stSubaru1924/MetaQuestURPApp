@@ -13,3 +13,4 @@ Unity 6000.3.28f1<br>
 ・Universal RP<br>
 
 また、ビルド済みアプリケーションファイルはこちらに配置しております
+https://github.com/stSubaru1924/Portfolio/releases/tag/Demo_apk
