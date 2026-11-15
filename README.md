@@ -12,5 +12,5 @@ Unity 6000.3.28f1<br>
 ・MetaXRSDK<br>
 ・Universal RP<br>
 
-また、ビルド済みアプリケーションファイルはこちらに配置しております
+また、ビルド済みアプリケーションファイルはこちらに配置しております<br>
 https://github.com/stSubaru1924/Portfolio/releases/tag/Demo_apk
